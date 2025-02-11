@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Nap Tech</title>
+    
+    <link>https://xlatom.com/</link>
+    <atom:link href="https://xlatom.com/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Tue, 11 Feb 2025 09:51:00 -0000</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 09:51:00 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>Plot stacked bar chart</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h2&gt;How to plot stacked bar chart with labels on each fraction in python&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;intro_chart.png&#34;&gt;
+!!! summary &#34;Summary&#34;
+    This post shows the very basic steps to plot stacked bar chart using python 
+    with an example on a simplified imaginary dataset.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts_plot-stacked-bar-chart/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_updated.xml">Nap Tech</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts_plot-stacked-bar-chart/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts_plot-stacked-bar-chart.png" type="image/png" length="None" />
+      
+    </item>
+    
+    <item>
+      <title>How To insert extra tags into head block in base.html (mkdocs)</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;How To insert extra tags into head block in base.html (mkdocs)&lt;/h1&gt;
+&lt;p&gt;!!! Summary &#34;Summary&#34;
+    This is a short post to describe how to insert extra tags in to &lt;code&gt;#!html &amp;lt;head&amp;gt;&lt;/code&gt; 
+    block in your doc or blog site built by mkdocs. &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;At the end you will see how I added adsense to my mkdocs site.
+
+This post is going to follow the recommanded approach. For more detail see 
+[Overriding blocks](https://squidfunk.github.io/mkdocs-material/customization/#overriding-blocks).
+&lt;/code&gt;&lt;/pre&gt;</description>
+      <link>https://xlatom.com/posts_how-to-insert-extra-tags-into-head-block-in-basehtml-mkdocs/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_updated.xml">Nap Tech</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts_how-to-insert-extra-tags-into-head-block-in-basehtml-mkdocs/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts_how-to-insert-extra-tags-into-head-block-in-basehtml-mkdocs.png" type="image/png" length="None" />
+      
+    </item>
+    
+    <item>
+      <title>How to set up Miniconda on linux server</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;How to set up Miniconda on linux server&lt;/h1&gt;
+&lt;p&gt;!!! Summary &#34;Summary&#34;
+    A short How-to post to document how to set up Miniconda on linux server.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts_how-to-set-up-miniconda-on-linux-server/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_updated.xml">Nap Tech</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts_how-to-set-up-miniconda-on-linux-server/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts_how-to-set-up-miniconda-on-linux-server.png" type="image/png" length="None" />
+      
+    </item>
+    
+  </channel>
+</rss>

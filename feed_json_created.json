@@ -1,0 +1,54 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nap Tech",
+    "home_page_url": "https://xlatom.com/",
+    "feed_url": "https://xlatom.com/feed_json_created.json",
+    "description": null,
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://xlatom.com/posts_plot-stacked-bar-chart/",
+            "url": "https://xlatom.com/posts_plot-stacked-bar-chart/",
+            "title": "Plot stacked bar chart",
+            "content_html": "<h2>How to plot stacked bar chart with labels on each fraction in python</h2>\n<p><img alt=\"\" src=\"intro_chart.png\">\n!!! summary \"Summary\"\n    This post shows the very basic steps to plot stacked bar chart using python \n    with an example on a simplified imaginary dataset.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts_plot-stacked-bar-chart.png",
+            "date_published": "2025-02-11T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts_how-to-insert-extra-tags-into-head-block-in-basehtml-mkdocs/",
+            "url": "https://xlatom.com/posts_how-to-insert-extra-tags-into-head-block-in-basehtml-mkdocs/",
+            "title": "How To insert extra tags into head block in base.html (mkdocs)",
+            "content_html": "<h1>How To insert extra tags into head block in base.html (mkdocs)</h1>\n<p>!!! Summary \"Summary\"\n    This is a short post to describe how to insert extra tags in to <code>#!html &lt;head&gt;</code> \n    block in your doc or blog site built by mkdocs. </p>\n<pre><code>At the end you will see how I added adsense to my mkdocs site.\n\nThis post is going to follow the recommanded approach. For more detail see \n[Overriding blocks](https://squidfunk.github.io/mkdocs-material/customization/#overriding-blocks).\n</code></pre>",
+            "image": "https://xlatom.com/assets/images/social/posts_how-to-insert-extra-tags-into-head-block-in-basehtml-mkdocs.png",
+            "date_published": "2025-02-10T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts_how-to-set-up-miniconda-on-linux-server/",
+            "url": "https://xlatom.com/posts_how-to-set-up-miniconda-on-linux-server/",
+            "title": "How to set up Miniconda on linux server",
+            "content_html": "<h1>How to set up Miniconda on linux server</h1>\n<p>!!! Summary \"Summary\"\n    A short How-to post to document how to set up Miniconda on linux server.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts_how-to-set-up-miniconda-on-linux-server.png",
+            "date_published": "2025-02-09T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}
