@@ -1,0 +1,292 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "XiData",
+    "home_page_url": "https://xlatom.com/",
+    "feed_url": "https://xlatom.com/feed_json_updated.json",
+    "description": null,
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-cat-command-displaying-file-contents/",
+            "url": "https://xlatom.com/posts/linux-commands/the-cat-command-displaying-file-contents/",
+            "title": "The cat Command: Displaying File Contents",
+            "content_html": "<h1>The <code>cat</code> Command: Displaying File Contents</h1>\n<p>!!! summary \"Summary\"\n    The <code>cat</code> command is a fundamental utility in Linux for displaying the contents of one or more files. It's a quick and easy way to view text files without opening a dedicated text editor.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-cat-command-displaying-file-contents.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-chmod-command-modifying-file-permissions/",
+            "url": "https://xlatom.com/posts/linux-commands/the-chmod-command-modifying-file-permissions/",
+            "title": "The chmod Command: Modifying File Permissions",
+            "content_html": "<h1>The <code>chmod</code> Command: Modifying File Permissions</h1>\n<p>!!! summary \"Summary\"\n    The <code>chmod</code> command is a fundamental Linux utility used to change the access permissions of files and directories. Understanding <code>chmod</code> is crucial for managing file security and controlling who can read, write, and execute your files.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-chmod-command-modifying-file-permissions.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-du-command-disk-usage/",
+            "url": "https://xlatom.com/posts/linux-commands/the-du-command-disk-usage/",
+            "title": "The du Command: Disk Usage",
+            "content_html": "<h1>The <code>du</code> Command: Disk Usage</h1>\n<p>!!! summary \"Summary\"\n    The <code>du</code> command is a powerful tool for estimating file space usage. It recursively summarizes disk usage of each file and directory within a specified path.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-du-command-disk-usage.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-head-command-displaying-the-beginning-of-a-file/",
+            "url": "https://xlatom.com/posts/linux-commands/the-head-command-displaying-the-beginning-of-a-file/",
+            "title": "The head Command: Displaying the Beginning of a File",
+            "content_html": "<h1>The <code>head</code> Command: Displaying the Beginning of a File</h1>\n<p>!!! summary \"Summary\"\n    The <code>head</code> command is a simple yet powerful utility used to display the beginning of a file, typically the first few lines. It's invaluable for quickly inspecting file contents without having to open the entire file.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-head-command-displaying-the-beginning-of-a-file.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-mkdir-command-creating-directories-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/the-mkdir-command-creating-directories-in-linux/",
+            "title": "The mkdir Command: Creating Directories in Linux",
+            "content_html": "<h1>The <code>mkdir</code> Command: Creating Directories in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>mkdir</code> command is a fundamental Linux utility used to create directories (folders). This post will guide you through its basic usage, common use cases, and helpful flags.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-mkdir-command-creating-directories-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-ps-command-process-status/",
+            "url": "https://xlatom.com/posts/linux-commands/the-ps-command-process-status/",
+            "title": "The ps Command: Process Status",
+            "content_html": "<h1>The <code>ps</code> Command: Process Status</h1>\n<p>!!! summary \"Summary\"\n    The <code>ps</code> command is a powerful tool for displaying information about active processes on a Linux system. It allows you to monitor running applications, identify resource usage, and troubleshoot system issues.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-ps-command-process-status.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-tree-command-visualizing-directory-structures/",
+            "url": "https://xlatom.com/posts/linux-commands/the-tree-command-visualizing-directory-structures/",
+            "title": "The tree Command: Visualizing Directory Structures",
+            "content_html": "<h1>The <code>tree</code> Command: Visualizing Directory Structures</h1>\n<p>!!! summary \"Summary\"\n    The <code>tree</code> command is a powerful utility for displaying the directory structure of a system in a visually appealing, tree-like format. It provides a clear and concise overview of files and directories within a specified path.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-tree-command-visualizing-directory-structures.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/the-wc-command-counting-words-lines-and-characters/",
+            "url": "https://xlatom.com/posts/linux-commands/the-wc-command-counting-words-lines-and-characters/",
+            "title": "The wc Command: Counting Words, Lines, and Characters",
+            "content_html": "<h1>The <code>wc</code> Command: Counting Words, Lines, and Characters</h1>\n<p>!!! summary \"Summary\"\n    The <code>wc</code> command is a versatile utility for counting words, lines, characters, and bytes in a file or from standard input. It's a quick and easy way to get a statistical overview of text data.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/the-wc-command-counting-words-lines-and-characters.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/alias-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/alias-command-in-linux/",
+            "title": "alias Command in Linux",
+            "content_html": "<h1><code>alias</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>alias</code> command in Linux allows you to create shortcuts for frequently used commands. This can significantly speed up your workflow by simplifying complex commands or long sequences of commands into shorter, more memorable aliases.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/alias-command-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/awk-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/awk-command-in-linux/",
+            "title": "awk Command in Linux",
+            "content_html": "<h1><code>awk</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>awk</code> command is a powerful text processing tool in Linux used for pattern scanning and processing. It reads input files line by line, compares each line to a pattern, and performs actions based on the match. It's widely used for data extraction, report generation, and data transformation.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/awk-command-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/basename-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/basename-command-in-linux/",
+            "title": "basename Command in Linux",
+            "content_html": "<h1><code>basename</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>basename</code> command removes the directory and suffix from file names. It's handy for extracting the essential name component of a file path.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/basename-command-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/bg-command-running-jobs-in-the-background/",
+            "url": "https://xlatom.com/posts/linux-commands/bg-command-running-jobs-in-the-background/",
+            "title": "bg Command: Running Jobs in the Background",
+            "content_html": "<h1><code>bg</code> Command: Running Jobs in the Background</h1>\n<p>!!! summary \"Summary\"\n    The <code>bg</code> command in Linux is used to move a suspended (stopped) job to the background, allowing you to continue using the terminal while the job runs. This is particularly useful for long-running processes that don't require constant user interaction.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/bg-command-running-jobs-in-the-background.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/cal-command-displaying-calendars-in-the-terminal/",
+            "url": "https://xlatom.com/posts/linux-commands/cal-command-displaying-calendars-in-the-terminal/",
+            "title": "cal Command: Displaying Calendars in the Terminal",
+            "content_html": "<h1><code>cal</code> Command: Displaying Calendars in the Terminal</h1>\n<p>!!! summary \"Summary\"\n    The <code>cal</code> command is a simple yet useful utility in Linux for displaying a calendar in the terminal. It provides a quick way to view the current month, a specific month, or even the entire year.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/cal-command-displaying-calendars-in-the-terminal.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/chgrp-changing-group-ownership-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/chgrp-changing-group-ownership-in-linux/",
+            "title": "chgrp: Changing Group Ownership in Linux",
+            "content_html": "<h1><code>chgrp</code>: Changing Group Ownership in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>chgrp</code> command in Linux allows you to change the group ownership of a file or directory. This is essential for managing file permissions and access control.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/chgrp-changing-group-ownership-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/chown-command-change-file-ownership/",
+            "url": "https://xlatom.com/posts/linux-commands/chown-command-change-file-ownership/",
+            "title": "chown Command: Change File Ownership",
+            "content_html": "<h1><code>chown</code> Command: Change File Ownership</h1>\n<p>!!! summary \"Summary\"\n    The <code>chown</code> command is a fundamental Linux utility used to change the owner and group associated with a file or directory.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/chown-command-change-file-ownership.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/cmp-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/cmp-command-in-linux/",
+            "title": "cmp Command in Linux",
+            "content_html": "<h1><code>cmp</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>cmp</code> command in Linux is a powerful utility used to compare two files byte by byte. It is primarily used to identify differences between binary or text files, making it invaluable for tasks such as verifying file integrity or identifying modifications.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/cmp-command-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/comm-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/comm-command-in-linux/",
+            "title": "comm Command in Linux",
+            "content_html": "<h1><code>comm</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>comm</code> command is used to compare two sorted files line by line. It displays lines unique to the first file, lines unique to the second file, and lines common to both files.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/comm-command-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/cp-command-copying-files-and-directories-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/cp-command-copying-files-and-directories-in-linux/",
+            "title": "cp Command: Copying Files and Directories in Linux",
+            "content_html": "<h1><code>cp</code> Command: Copying Files and Directories in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>cp</code> command is a fundamental Linux utility used for copying files and directories from one location to another. It offers various options for controlling the copying process, such as preserving timestamps, creating symbolic links, and handling directory structures.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/cp-command-copying-files-and-directories-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/curl-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/curl-command-in-linux/",
+            "title": "curl Command in Linux",
+            "content_html": "<h1><code>curl</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    <code>curl</code> is a command-line tool used to transfer data with URL syntax, supporting protocols like HTTP, HTTPS, FTP, and more. It's often used for downloading files, testing APIs, and debugging web servers.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/curl-command-in-linux.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/cut-command-extracting-sections-from-text/",
+            "url": "https://xlatom.com/posts/linux-commands/cut-command-extracting-sections-from-text/",
+            "title": "cut Command: Extracting Sections from Text",
+            "content_html": "<h1><code>cut</code> Command: Extracting Sections from Text</h1>\n<p>!!! summary \"Summary\"\n    The <code>cut</code> command is a powerful utility used to extract specific sections or fields from lines of text, based on delimiters or character positions. It's particularly useful for parsing structured data like CSV files or log files.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/cut-command-extracting-sections-from-text.png",
+            "date_modified": "2025-07-09T13:27:07+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "XiData",
+    "home_page_url": "https://xlatom.com/",
+    "feed_url": "https://xlatom.com/feed_json_created.json",
+    "description": null,
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://xlatom.com/posts/%E7%AB%B6%E9%A6%AC/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%AB%B6%E9%A6%AC%E5%85%A5%E9%96%80%E8%87%AA%E5%88%86%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88/",
+            "url": "https://xlatom.com/posts/%E7%AB%B6%E9%A6%AC/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%AB%B6%E9%A6%AC%E5%85%A5%E9%96%80%E8%87%AA%E5%88%86%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88/",
+            "title": "\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30b9\u30c8\u306e\u305f\u3081\u306e\u7af6\u99ac\u5165\u9580(\u81ea\u5206\u306e\u30ce\u30fc\u30c8)",
+            "content_html": "<h1>\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30b9\u30c8\u306e\u305f\u3081\u306e\u7af6\u99ac\u5165\u9580(\u81ea\u5206\u306e\u30ce\u30fc\u30c8)</h1>\n<p>!!! Summary \"Summary\"\n    \u8fd1\u5e74\u3001\u7af6\u99ac\u306f\u5358\u306a\u308b\u30ae\u30e3\u30f3\u30d6\u30eb\u3067\u306f\u306a\u304f\u3001\u30c7\u30fc\u30bf\u5206\u6790\u3092\u751f\u304b\u3057\u3001\u53ce\u76ca\u3092\u72d9\u3046\u3082\u306e\u3068\u3057\u3066\u3067\u3082\u6ce8\u76ee\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n    \u4e2d\u592e\u7af6\u99ac\uff08JRA\uff09\u306f\u30ec\u30fc\u30b9\u3084\u99ac\u3001\u9a0e\u624b\u3001\u8840\u7d71\u306a\u3069\u3042\u3089\u3086\u308b\u60c5\u5831\u304c\u30c7\u30b8\u30bf\u30eb\u5316\u3055\u308c\u3066\u304a\u308a\u3001\n    \u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30b9\u30c8\u306b\u3068\u3063\u3066\u306f\u6a5f\u68b0\u5b66\u7fd2\u3084\u7d71\u8a08\u30e2\u30c7\u30eb\u306e\u5b9f\u8df5\u30d5\u30a3\u30fc\u30eb\u30c9\u3068\u3057\u3066\u975e\u5e38\u306b\u9b45\u529b\u7684\u3067\u3059\u3002</p>\n<pre><code>\u672c\u8a18\u4e8b\u3067\u306f\u3001\u7af6\u99ac\u306e\u57fa\u672c\u7684\u306a\u4ed5\u7d44\u307f\u3068\u3001\u30c7\u30fc\u30bf\u5206\u6790\u306b\u5fc5\u8981\u306a\u8996\u70b9\u304b\u3089\u306e\u57fa\u790e\u77e5\u8b58\u3092\u7e8f\u3081\u3066\u898b\u307e\u3057\u305f\u3002\n</code></pre>\n<hr>",
+            "image": "https://xlatom.com/assets/images/social/posts/\u7af6\u99ac/\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30b9\u30c8\u306e\u305f\u3081\u306e\u7af6\u99ac\u5165\u9580\u81ea\u5206\u306e\u30ce\u30fc\u30c8.png",
+            "date_published": "2025-07-09T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/data-analysis/avoiding-overflow-in-polars-what-every-python-developer-who-use-polars-should-know/",
+            "url": "https://xlatom.com/posts/data-analysis/avoiding-overflow-in-polars-what-every-python-developer-who-use-polars-should-know/",
+            "title": "Avoiding Overflow in Polars: What Every Python Developer Who Use Polars Should Know",
+            "content_html": "<h1>Avoiding Overflow in Polars: What Every Python Developer Who Use Polars Should Know</h1>\n<p>!!! Summary \"Summary\"\n    When working with <a href=\"https://www.pola.rs/\">Polars</a>, a lightning-fast DataFrame library built in Rust and designed for performance, many Python developers are surprised to encounter something they rarely see in standard Python: <strong>Overflow</strong>.</p>\n<pre><code>This post explains why overflow happens in Polars, how it differs from standard Python behaviour, and what you can do to prevent it.\n</code></pre>\n<hr>",
+            "image": "https://xlatom.com/assets/images/social/posts/data-analysis/avoiding-overflow-in-polars-what-every-python-developer-who-use-polars-should-know.png",
+            "date_published": "2025-06-29T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/cmp-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/cmp-command-in-linux/",
+            "title": "cmp Command in Linux",
+            "content_html": "<h1><code>cmp</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>cmp</code> command in Linux is a powerful utility used to compare two files byte by byte. It is primarily used to identify differences between binary or text files, making it invaluable for tasks such as verifying file integrity or identifying modifications.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/cmp-command-in-linux.png",
+            "date_published": "2025-03-19T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/scp---securely-copy-files/",
+            "url": "https://xlatom.com/posts/linux-commands/scp---securely-copy-files/",
+            "title": "scp - Securely Copy Files",
+            "content_html": "<h1><code>scp</code> - Securely Copy Files</h1>\n<p>!!! summary \"Summary\"\n    The <code>scp</code> (Secure Copy) command is a command-line utility that allows you to securely copy files and directories between a local and a remote host, or between two remote hosts. It leverages the SSH protocol for secure data transfer.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/scp---securely-copy-files.png",
+            "date_published": "2025-03-19T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/umask-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/umask-command-in-linux/",
+            "title": "umask Command in Linux",
+            "content_html": "<h1><code>umask</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>umask</code> command in Linux sets or displays the file mode creation mask, which determines the permissions of newly created files and directories. It's a crucial tool for controlling default permissions.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/umask-command-in-linux.png",
+            "date_published": "2025-03-19T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/join-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/join-command-in-linux/",
+            "title": "join Command in Linux",
+            "content_html": "<h1><code>join</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>join</code> command in Linux is used to combine lines from two files based on a common field. It's essentially a simplified database join operation performed on plain text files.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/join-command-in-linux.png",
+            "date_published": "2025-03-18T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/odt-command-open-document-text-odt-file-converter/",
+            "url": "https://xlatom.com/posts/linux-commands/odt-command-open-document-text-odt-file-converter/",
+            "title": "odt Command: Open Document Text (ODT) File Converter",
+            "content_html": "<h1><code>odt</code> Command: Open Document Text (ODT) File Converter</h1>\n<p>!!! summary \"Summary\"\n    The <code>odt</code> command, part of the <code>odt2txt</code> package, is a simple command-line utility for converting OpenDocument Text (.odt) files to plain text.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/odt-command-open-document-text-odt-file-converter.png",
+            "date_published": "2025-03-18T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/pushd-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/pushd-command-in-linux/",
+            "title": "pushd Command in Linux",
+            "content_html": "<h1><code>pushd</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>pushd</code> command in Linux allows you to change the current directory and save the previous directory for easy return. It's part of the shell's directory stack management.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/pushd-command-in-linux.png",
+            "date_published": "2025-03-18T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/wc-command-word-line-and-byte-counting/",
+            "url": "https://xlatom.com/posts/linux-commands/wc-command-word-line-and-byte-counting/",
+            "title": "wc Command: Word, Line, and Byte Counting",
+            "content_html": "<h1><code>wc</code> Command: Word, Line, and Byte Counting</h1>\n<p>!!! summary \"Summary\"\n    The <code>wc</code> command in Linux is a versatile utility used for counting the number of lines, words, characters, and bytes within a file or input stream. It's a fundamental tool for text analysis and data manipulation.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/wc-command-word-line-and-byte-counting.png",
+            "date_published": "2025-03-18T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/wc---word-count/",
+            "url": "https://xlatom.com/posts/linux-commands/wc---word-count/",
+            "title": "wc - Word Count",
+            "content_html": "<h1><code>wc</code> - Word Count</h1>\n<p>!!! summary \"Summary\"\n    The <code>wc</code> command in Linux is a utility that displays the number of lines, words, and bytes (or characters) in a file. It's a simple yet powerful tool for quick text analysis.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/wc---word-count.png",
+            "date_published": "2025-03-18T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/math/relearn-math-as-adult-a-z2-functions/",
+            "url": "https://xlatom.com/posts/math/relearn-math-as-adult-a-z2-functions/",
+            "title": "Relearn Math as Adult A-Z(2): Functions",
+            "content_html": "Demystify functions with this comprehensive guide designed for adult learners. Explore definitions, types, transformations, expansion, factorization, and plenty of examples to solidify your understanding.",
+            "image": "https://xlatom.com/assets/images/social/posts/math/relearn-math-as-adult-a-z2-functions.png",
+            "date_published": "2025-03-18T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/dirname-command-extracting-directory-names/",
+            "url": "https://xlatom.com/posts/linux-commands/dirname-command-extracting-directory-names/",
+            "title": "dirname Command: Extracting Directory Names",
+            "content_html": "<h1><code>dirname</code> Command: Extracting Directory Names</h1>\n<p>!!! summary \"Summary\"\n    The <code>dirname</code> command extracts the directory portion of a given file name or path. It's useful for scripts where you need to work with the directory containing a file, rather than the file itself.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/dirname-command-extracting-directory-names.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/id-command-display-user-and-group-information/",
+            "url": "https://xlatom.com/posts/linux-commands/id-command-display-user-and-group-information/",
+            "title": "id Command: Display User and Group Information",
+            "content_html": "<h1><code>id</code> Command: Display User and Group Information</h1>\n<p>!!! summary \"Summary\"\n    The <code>id</code> command displays user and group information, including the user ID (UID), group ID (GID), and group memberships.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/id-command-display-user-and-group-information.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/jobs-command-managing-background-processes/",
+            "url": "https://xlatom.com/posts/linux-commands/jobs-command-managing-background-processes/",
+            "title": "jobs Command: Managing Background Processes",
+            "content_html": "<h1><code>jobs</code> Command: Managing Background Processes</h1>\n<p>!!! summary \"Summary\"\n    The <code>jobs</code> command provides a convenient way to list, monitor, and manage background processes in your current shell environment. It is useful for checking the status of processes you've sent to the background using <code>&amp;</code> or <code>Ctrl+Z</code> followed by <code>bg</code>.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/jobs-command-managing-background-processes.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/ln-command-creating-links-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/ln-command-creating-links-in-linux/",
+            "title": "ln Command: Creating Links in Linux",
+            "content_html": "<h1><code>ln</code> Command: Creating Links in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>ln</code> command in Linux is used to create links between files.  It allows you to access the same file through multiple names, either as hard links or symbolic (soft) links.  This post will cover the usage of <code>ln</code>, provide examples, and explain the commonly used flags.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/ln-command-creating-links-in-linux.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/nohup-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/nohup-command-in-linux/",
+            "title": "nohup Command in Linux",
+            "content_html": "<h1><code>nohup</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>nohup</code> command in Linux allows you to run a command that will continue to execute even after you close the terminal or log out. It prevents the command from receiving the <code>SIGHUP</code> (hang up) signal, which is typically sent when the terminal is closed.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/nohup-command-in-linux.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/nohup-run-commands-unaffected-by-disconnects/",
+            "url": "https://xlatom.com/posts/linux-commands/nohup-run-commands-unaffected-by-disconnects/",
+            "title": "nohup: Run Commands Unaffected by Disconnects",
+            "content_html": "<h1><code>nohup</code>: Run Commands Unaffected by Disconnects</h1>\n<p>!!! summary \"Summary\"\n    The <code>nohup</code> command allows you to run a command that will continue to execute even after you log out of the terminal or the terminal window is closed. It is particularly useful for long-running processes.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/nohup-run-commands-unaffected-by-disconnects.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/pushd-and-popd-navigating-directories-like-a-pro/",
+            "url": "https://xlatom.com/posts/linux-commands/pushd-and-popd-navigating-directories-like-a-pro/",
+            "title": "pushd and popd: Navigating Directories Like a Pro",
+            "content_html": "<h1><code>pushd</code> and <code>popd</code>: Navigating Directories Like a Pro</h1>\n<p>!!! summary \"Summary\"\n    <code>pushd</code> and <code>popd</code> are powerful commands for navigating directories in Linux, allowing you to quickly switch between directories and easily return to previous locations. Think of them as a stack for directories!</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/pushd-and-popd-navigating-directories-like-a-pro.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/readlink-command-in-linux/",
+            "url": "https://xlatom.com/posts/linux-commands/readlink-command-in-linux/",
+            "title": "readlink Command in Linux",
+            "content_html": "<h1><code>readlink</code> Command in Linux</h1>\n<p>!!! summary \"Summary\"\n    The <code>readlink</code> command displays the target of a symbolic link. It's useful for determining the actual file or directory that a symbolic link points to.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/readlink-command-in-linux.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://xlatom.com/posts/linux-commands/rsync-efficient-file-synchronization-and-transfer/",
+            "url": "https://xlatom.com/posts/linux-commands/rsync-efficient-file-synchronization-and-transfer/",
+            "title": "rsync: Efficient File Synchronization and Transfer",
+            "content_html": "<h1><code>rsync</code>: Efficient File Synchronization and Transfer</h1>\n<p>!!! summary \"Summary\"\n    <code>rsync</code> is a versatile command-line utility for efficiently synchronizing files and directories between two locations, either locally or over a network. It minimizes data transfer by only copying the differences between the source and destination.</p>",
+            "image": "https://xlatom.com/assets/images/social/posts/linux-commands/rsync-efficient-file-synchronization-and-transfer.png",
+            "date_published": "2025-03-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "nap"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}

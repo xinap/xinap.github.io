@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>XiData</title>
+    
+    <link>https://xlatom.com/</link>
+    <atom:link href="https://xlatom.com/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Wed, 09 Jul 2025 13:27:44 -0000</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2025 13:27:44 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>データサイエンティストのための競馬入門(自分のノート)</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;データサイエンティストのための競馬入門(自分のノート)&lt;/h1&gt;
+&lt;p&gt;!!! Summary &#34;Summary&#34;
+    近年、競馬は単なるギャンブルではなく、データ分析を生かし、収益を狙うものとしてでも注目されています。
+    中央競馬（JRA）はレースや馬、騎手、血統などあらゆる情報がデジタル化されており、
+    データサイエンティストにとっては機械学習や統計モデルの実践フィールドとして非常に魅力的です。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;本記事では、競馬の基本的な仕組みと、データ分析に必要な視点からの基礎知識を纏めて見ました。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;</description>
+      <link>https://xlatom.com/posts/%E7%AB%B6%E9%A6%AC/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%AB%B6%E9%A6%AC%E5%85%A5%E9%96%80%E8%87%AA%E5%88%86%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/%E7%AB%B6%E9%A6%AC/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%AB%B6%E9%A6%AC%E5%85%A5%E9%96%80%E8%87%AA%E5%88%86%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/競馬/データサイエンティストのための競馬入門自分のノート.png" type="image/png" length="17682" />
+      
+    </item>
+    
+    <item>
+      <title>Avoiding Overflow in Polars: What Every Python Developer Who Use Polars Should Know</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;Avoiding Overflow in Polars: What Every Python Developer Who Use Polars Should Know&lt;/h1&gt;
+&lt;p&gt;!!! Summary &#34;Summary&#34;
+    When working with &lt;a href=&#34;https://www.pola.rs/&#34;&gt;Polars&lt;/a&gt;, a lightning-fast DataFrame library built in Rust and designed for performance, many Python developers are surprised to encounter something they rarely see in standard Python: &lt;strong&gt;Overflow&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This post explains why overflow happens in Polars, how it differs from standard Python behaviour, and what you can do to prevent it.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;</description>
+      <link>https://xlatom.com/posts/data-analysis/avoiding-overflow-in-polars-what-every-python-developer-who-use-polars-should-know/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/data-analysis/avoiding-overflow-in-polars-what-every-python-developer-who-use-polars-should-know/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/data-analysis/avoiding-overflow-in-polars-what-every-python-developer-who-use-polars-should-know.png" type="image/png" length="47094" />
+      
+    </item>
+    
+    <item>
+      <title>cmp Command in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;cmp&lt;/code&gt; Command in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;cmp&lt;/code&gt; command in Linux is a powerful utility used to compare two files byte by byte. It is primarily used to identify differences between binary or text files, making it invaluable for tasks such as verifying file integrity or identifying modifications.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/cmp-command-in-linux/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/cmp-command-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/cmp-command-in-linux.png" type="image/png" length="26498" />
+      
+    </item>
+    
+    <item>
+      <title>scp - Securely Copy Files</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;scp&lt;/code&gt; - Securely Copy Files&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;scp&lt;/code&gt; (Secure Copy) command is a command-line utility that allows you to securely copy files and directories between a local and a remote host, or between two remote hosts. It leverages the SSH protocol for secure data transfer.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/scp---securely-copy-files/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/scp---securely-copy-files/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/scp---securely-copy-files.png" type="image/png" length="31447" />
+      
+    </item>
+    
+    <item>
+      <title>umask Command in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;umask&lt;/code&gt; Command in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;umask&lt;/code&gt; command in Linux sets or displays the file mode creation mask, which determines the permissions of newly created files and directories. It&#39;s a crucial tool for controlling default permissions.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/umask-command-in-linux/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/umask-command-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/umask-command-in-linux.png" type="image/png" length="27462" />
+      
+    </item>
+    
+    <item>
+      <title>join Command in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;join&lt;/code&gt; Command in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;join&lt;/code&gt; command in Linux is used to combine lines from two files based on a common field. It&#39;s essentially a simplified database join operation performed on plain text files.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/join-command-in-linux/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/join-command-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/join-command-in-linux.png" type="image/png" length="24824" />
+      
+    </item>
+    
+    <item>
+      <title>odt Command: Open Document Text (ODT) File Converter</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;odt&lt;/code&gt; Command: Open Document Text (ODT) File Converter&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;odt&lt;/code&gt; command, part of the &lt;code&gt;odt2txt&lt;/code&gt; package, is a simple command-line utility for converting OpenDocument Text (.odt) files to plain text.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/odt-command-open-document-text-odt-file-converter/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/odt-command-open-document-text-odt-file-converter/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/odt-command-open-document-text-odt-file-converter.png" type="image/png" length="43511" />
+      
+    </item>
+    
+    <item>
+      <title>pushd Command in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;pushd&lt;/code&gt; Command in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;pushd&lt;/code&gt; command in Linux allows you to change the current directory and save the previous directory for easy return. It&#39;s part of the shell&#39;s directory stack management.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/pushd-command-in-linux/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/pushd-command-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/pushd-command-in-linux.png" type="image/png" length="28054" />
+      
+    </item>
+    
+    <item>
+      <title>wc Command: Word, Line, and Byte Counting</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;wc&lt;/code&gt; Command: Word, Line, and Byte Counting&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;wc&lt;/code&gt; command in Linux is a versatile utility used for counting the number of lines, words, characters, and bytes within a file or input stream. It&#39;s a fundamental tool for text analysis and data manipulation.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/wc-command-word-line-and-byte-counting/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/wc-command-word-line-and-byte-counting/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/wc-command-word-line-and-byte-counting.png" type="image/png" length="45663" />
+      
+    </item>
+    
+    <item>
+      <title>wc - Word Count</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;wc&lt;/code&gt; - Word Count&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;wc&lt;/code&gt; command in Linux is a utility that displays the number of lines, words, and bytes (or characters) in a file. It&#39;s a simple yet powerful tool for quick text analysis.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/wc---word-count/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/wc---word-count/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/wc---word-count.png" type="image/png" length="24750" />
+      
+    </item>
+    
+    <item>
+      <title>Relearn Math as Adult A-Z(2): Functions</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>Demystify functions with this comprehensive guide designed for adult learners. Explore definitions, types, transformations, expansion, factorization, and plenty of examples to solidify your understanding.</description>
+      <link>https://xlatom.com/posts/math/relearn-math-as-adult-a-z2-functions/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/math/relearn-math-as-adult-a-z2-functions/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/math/relearn-math-as-adult-a-z2-functions.png" type="image/png" length="53902" />
+      
+    </item>
+    
+    <item>
+      <title>dirname Command: Extracting Directory Names</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;dirname&lt;/code&gt; Command: Extracting Directory Names&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;dirname&lt;/code&gt; command extracts the directory portion of a given file name or path. It&#39;s useful for scripts where you need to work with the directory containing a file, rather than the file itself.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/dirname-command-extracting-directory-names/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/dirname-command-extracting-directory-names/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/dirname-command-extracting-directory-names.png" type="image/png" length="44132" />
+      
+    </item>
+    
+    <item>
+      <title>id Command: Display User and Group Information</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;id&lt;/code&gt; Command: Display User and Group Information&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;id&lt;/code&gt; command displays user and group information, including the user ID (UID), group ID (GID), and group memberships.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/id-command-display-user-and-group-information/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/id-command-display-user-and-group-information/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/id-command-display-user-and-group-information.png" type="image/png" length="43706" />
+      
+    </item>
+    
+    <item>
+      <title>jobs Command: Managing Background Processes</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;jobs&lt;/code&gt; Command: Managing Background Processes&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;jobs&lt;/code&gt; command provides a convenient way to list, monitor, and manage background processes in your current shell environment. It is useful for checking the status of processes you&#39;ve sent to the background using &lt;code&gt;&amp;amp;&lt;/code&gt; or &lt;code&gt;Ctrl+Z&lt;/code&gt; followed by &lt;code&gt;bg&lt;/code&gt;.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/jobs-command-managing-background-processes/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/jobs-command-managing-background-processes/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/jobs-command-managing-background-processes.png" type="image/png" length="42162" />
+      
+    </item>
+    
+    <item>
+      <title>ln Command: Creating Links in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;ln&lt;/code&gt; Command: Creating Links in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;ln&lt;/code&gt; command in Linux is used to create links between files.  It allows you to access the same file through multiple names, either as hard links or symbolic (soft) links.  This post will cover the usage of &lt;code&gt;ln&lt;/code&gt;, provide examples, and explain the commonly used flags.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/ln-command-creating-links-in-linux/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/ln-command-creating-links-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/ln-command-creating-links-in-linux.png" type="image/png" length="35266" />
+      
+    </item>
+    
+    <item>
+      <title>nohup Command in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;nohup&lt;/code&gt; Command in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;nohup&lt;/code&gt; command in Linux allows you to run a command that will continue to execute even after you close the terminal or log out. It prevents the command from receiving the &lt;code&gt;SIGHUP&lt;/code&gt; (hang up) signal, which is typically sent when the terminal is closed.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/nohup-command-in-linux/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/nohup-command-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/nohup-command-in-linux.png" type="image/png" length="26291" />
+      
+    </item>
+    
+    <item>
+      <title>nohup: Run Commands Unaffected by Disconnects</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;nohup&lt;/code&gt;: Run Commands Unaffected by Disconnects&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;nohup&lt;/code&gt; command allows you to run a command that will continue to execute even after you log out of the terminal or the terminal window is closed. It is particularly useful for long-running processes.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/nohup-run-commands-unaffected-by-disconnects/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/nohup-run-commands-unaffected-by-disconnects/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/nohup-run-commands-unaffected-by-disconnects.png" type="image/png" length="38825" />
+      
+    </item>
+    
+    <item>
+      <title>pushd and popd: Navigating Directories Like a Pro</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;pushd&lt;/code&gt; and &lt;code&gt;popd&lt;/code&gt;: Navigating Directories Like a Pro&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    &lt;code&gt;pushd&lt;/code&gt; and &lt;code&gt;popd&lt;/code&gt; are powerful commands for navigating directories in Linux, allowing you to quickly switch between directories and easily return to previous locations. Think of them as a stack for directories!&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/pushd-and-popd-navigating-directories-like-a-pro/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/pushd-and-popd-navigating-directories-like-a-pro/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/pushd-and-popd-navigating-directories-like-a-pro.png" type="image/png" length="41289" />
+      
+    </item>
+    
+    <item>
+      <title>readlink Command in Linux</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;readlink&lt;/code&gt; Command in Linux&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    The &lt;code&gt;readlink&lt;/code&gt; command displays the target of a symbolic link. It&#39;s useful for determining the actual file or directory that a symbolic link points to.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/readlink-command-in-linux/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/readlink-command-in-linux/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/readlink-command-in-linux.png" type="image/png" length="27177" />
+      
+    </item>
+    
+    <item>
+      <title>rsync: Efficient File Synchronization and Transfer</title>
+      
+      
+        
+      <author>nap</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;&lt;code&gt;rsync&lt;/code&gt;: Efficient File Synchronization and Transfer&lt;/h1&gt;
+&lt;p&gt;!!! summary &#34;Summary&#34;
+    &lt;code&gt;rsync&lt;/code&gt; is a versatile command-line utility for efficiently synchronizing files and directories between two locations, either locally or over a network. It minimizes data transfer by only copying the differences between the source and destination.&lt;/p&gt;</description>
+      <link>https://xlatom.com/posts/linux-commands/rsync-efficient-file-synchronization-and-transfer/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <source url="https://xlatom.com/feed_rss_created.xml">XiData</source>
+      
+      <guid isPermaLink="true">https://xlatom.com/posts/linux-commands/rsync-efficient-file-synchronization-and-transfer/</guid>
+      
+      <enclosure url="https://xlatom.com/assets/images/social/posts/linux-commands/rsync-efficient-file-synchronization-and-transfer.png" type="image/png" length="42104" />
+      
+    </item>
+    
+  </channel>
+</rss>
